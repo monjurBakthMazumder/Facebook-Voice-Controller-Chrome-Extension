@@ -94,7 +94,7 @@ Experience voice-controlled Facebook in action:
 Clone the repository:
 
 ```bash
-git clone https://github.com/monjurbakthmazumder/Facebook-Voice-Controller-Chrome-Extension.git
+git clone https://github.com/monjurBakthMazumder/Facebook-Voice-Controller-Chrome-Extension
 ```
 
 Open in Chrome as an unpacked extension (see installation above).
