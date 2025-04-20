@@ -126,8 +126,9 @@ No build tools or dependencies required.
 
 **Md Monjur Bakth Mazumder**  
 💼 Full Stack Developer  
-📧 Email me  
-🌐 Portfolio
+📧 [Email me](mailto:md.monjurmbm2001@gmail.com)  
+🌐 [Portfolio](https://mdmonjurbakthmazumder.netlify.app)
+
 
 ---
 
