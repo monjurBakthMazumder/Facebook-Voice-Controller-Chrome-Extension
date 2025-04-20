@@ -44,6 +44,15 @@ This Chrome extension lets you:
 
 ## 📁 Project Structure
 
+```
+facebook-voice-controller/
+├── manifest.json
+├── background.js (optional in current setup)
+├── popup.html
+├── popup.js
+├── voice-control.js
+├── icon.png (optional)
+```
 
 ---
 
@@ -64,20 +73,63 @@ This Chrome extension lets you:
 
 ---
 
+## 🎥 Demo
+
+Experience voice-controlled Facebook in action:  
+**Live Preview:** [Click here to watch the demo](https://youtu.be/ZAyuRWs7muc)
+
+---
+
 ## 📌 To Do / Future Features
 
-- Add **support for Bangla commands** 🎙️
+- Add **support for Bangla commands** 🎤
 - Add **voice response/feedback**
 - Toggle dark/light mode with voice
 - Custom command builder
 
 ---
 
-## 📧 Contact
+## ⚙️ Setup & Usage
 
-Made by Md Monjur Bakth Mazumder  
-Feel free to fork, contribute, or suggest improvements!
+Clone the repository:
+
+```bash
+git clone https://github.com/monjurbakthmazumder/Facebook-Voice-Controller-Chrome-Extension.git
+```
+
+Open in Chrome as an unpacked extension (see installation above).
+
+Done 🎉
+
+No build tools or dependencies required.
 
 ---
 
-> 💬 "Let your voice control the scroll."  
+## 🧠 How It Works
+
+- Uses the Web Speech API to recognize voice input
+- Parses recognized text and checks for command keywords
+- Executes JavaScript DOM actions based on the command
+- Works in real-time, continuously listening and responding
+
+---
+
+## 📌 Limitations
+
+- Facebook's UI may change and break selectors
+- Background noise may affect voice recognition
+- Requires microphone access to work
+
+---
+
+## 🙌 Author
+
+**Md Monjur Bakth Mazumder**  
+💼 Full Stack Developer  
+📧 Email me  
+🌐 Portfolio
+
+---
+
+> 💬 "Let your voice control the scroll."
+
