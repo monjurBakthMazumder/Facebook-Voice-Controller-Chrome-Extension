@@ -73,7 +73,7 @@ facebook-voice-controller/
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
 Experience voice-controlled Facebook in action:  
 **Live Preview:** [Click here to watch the demo](https://youtu.be/ZAyuRWs7muc)
